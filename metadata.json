@@ -1,0 +1,6 @@
+{
+  "name": "Hisab Kitab",
+  "description": "Apna Hisab, Apne Haath - Complete digital ledger, customer khata, expenses, income, invoices, and business accounting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
